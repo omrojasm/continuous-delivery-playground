@@ -73,4 +73,4 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
       - name: Run smoke test
         run: |
-          npm run test:smoke -- https://google.es
+          npm run test:smoke -- https://www.google.es
