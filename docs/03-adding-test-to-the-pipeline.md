@@ -68,6 +68,6 @@ Test automation is the practices of automating test tasks to make sure the appli
 ## Lab checklist
 
 - [x] Read the instructions
-- [ ] Replace the hello world job with the new test job
-- [ ] Push the changes and check the pipeline execution in the Actions tab
-- [ ] Break the tests, commit and push the changes. Check what happens.
+- [x] Replace the hello world job with the new test job
+- [x] Push the changes and check the pipeline execution in the Actions tab
+- [x] Break the tests, commit and push the changes. Check what happens.
