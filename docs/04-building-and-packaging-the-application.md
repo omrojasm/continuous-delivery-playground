@@ -43,6 +43,6 @@ As you can see, we added a step to build the application and its dependecies wit
 ## Lab checklist
 
 - [x] Read the instructions
-- [ ] Add the build job to the CD workflow
-- [ ] Push the changes and check the pipeline logs in the Actions tab
-- [ ] Think about other tasks that could be automated as part of the build stage in the pipeline
+- [x] Add the build job to the CD workflow
+- [x] Push the changes and check the pipeline logs in the Actions tab
+- [x] Think about other tasks that could be automated as part of the build stage in the pipeline
