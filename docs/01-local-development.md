@@ -36,6 +36,6 @@ and then open http://localhost:3000 to check our modern web app.
 ## Lab checklist
 
 - [x] Read the instructions
-- [ ] Build the application locally
-- [ ] Run the unit tests locally
-- [ ] Deploy the application locally in development mode
+- [x] Build the application locally
+- [x] Run the unit tests locally
+- [x] Deploy the application locally in development mode
