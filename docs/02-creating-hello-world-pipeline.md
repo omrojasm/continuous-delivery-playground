@@ -79,6 +79,6 @@ triggers are specified events that can range from creating a pull request to bui
 ## Lab checklist
 
 - [x] Read the instructions
-- [ ] Create folder structure
-- [ ] Create a github workflow
-- [ ] Push the changes and check the pipeline execution in the Actions tab
+- [x] Create folder structure
+- [x] Create a github workflow
+- [x] Push the changes and check the pipeline execution in the Actions tab
