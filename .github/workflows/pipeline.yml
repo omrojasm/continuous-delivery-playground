@@ -4,8 +4,8 @@ on: push
 defaults:
   run:
     working-directory: modern-web-app
-  env:
-    NODE_VERSION: "14.17"
+env:
+  NODE_VERSION: "14.17"
 jobs:
   test:
     name: Test
