@@ -1,4 +1,4 @@
-name: CI/CD Pipeline 27/7/2023
+name: CI/CD Pipeline Lab
 
 on: push
 defaults:
