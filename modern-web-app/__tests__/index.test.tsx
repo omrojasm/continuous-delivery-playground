@@ -9,6 +9,6 @@ describe('Home', () => {
       name: /welcome to next\.js!/i,
     })
 
-    expect(heading).not.toBeInTheDocument()
+    expect(heading).toBeInTheDocument()
   })
 })
